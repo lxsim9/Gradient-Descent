@@ -58,7 +58,6 @@ function draw() {
     if (data.length > 1) {
         gradientDescent();
         drawLine();
-        canvas.style('color', 'green');
     }
 }
 
